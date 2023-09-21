@@ -15,7 +15,7 @@
 * IBUS and CRSF supported
 * No Built in inverter for SBUS input (buy or DIY a converter)
 
-# FC Firmware:
+# FC Pinout:
 WIP
 
 # INAV Configurator
