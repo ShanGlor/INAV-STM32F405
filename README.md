@@ -14,8 +14,7 @@
 * LED Strip
 * Beeper
 * 2x PINIO
-* PPM receiver: not supported
-* IBUS and CRSF supported
+* PPM, IBUS and CRSF supported
 * No Built in inverter for SBUS input (buy or DIY a converter)
 
 # FC Pinout:
