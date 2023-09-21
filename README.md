@@ -3,7 +3,7 @@
 
 # FC Specifications:
 
-* MCU: 168MHz 
+* MCU: 168MHz (STM32F405RGT6)
 * IMU: MPU6500 OR BMI160
 * OSD
 * 6x Uarts
