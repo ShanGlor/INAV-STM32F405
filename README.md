@@ -1,5 +1,5 @@
 -----------------
-# STM32F405-INAV
+# INAV-STM32F405
 
 # FC Specifications:
 
