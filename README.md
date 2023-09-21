@@ -6,11 +6,14 @@
 * MCU: 168MHz (STM32F405RGT6)
 * IMU: MPU6500 OR BMI160
 * OSD
-* 6x Uarts
-* 6x PWM outputs (2x Motors, 4x Servos)
+* SDCard Reader
+* 6x Uarts or 5x Uarts and 1x Softserial
+* 9x PWM outputs (2x Motors, 7x Servos)
 * 1x I2C
-* 4x ADC (VBAT, Current, RSSI, AirSpeed)
-* 1x Camera Input
+* 3x ADC (VBAT, Current, RSSI)
+* LED Strip
+* Beeper
+* 2x PINIO
 * PPM receiver: not supported
 * IBUS and CRSF supported
 * No Built in inverter for SBUS input (buy or DIY a converter)
